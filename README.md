@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://github.com/Alutery/rsschool-cv/cv
+https://alutery.github.io/rsschool-cv/cv
